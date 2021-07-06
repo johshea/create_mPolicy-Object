@@ -1,0 +1,28 @@
+
+
+{ "policy_objects": [
+     {
+        "name": "Web Servers - Datacenter 10",
+        "category": "network",
+        "type": "cidr",
+        "cidr": "10.0.0.0/24",
+        "groupIds": [
+       ],
+        "networkIds": [
+
+       ]
+     },
+
+     {
+        "name": "File Servers - Datacenter 10",
+        "category": "network",
+        "type": "cidr",
+        "cidr": "10.1.0.0/24",
+        "groupIds": [
+       ],
+        "networkIds": [
+
+       ]
+    }
+  ]
+}
